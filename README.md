@@ -324,4 +324,10 @@ This project demonstrates:
 
 # Conclusion
 
-This project successfully recognizes human emotions from speech using Deep Learning techniques. By combining MFCC-based audio feature extraction with a CNN-LSTM architecture, the system effectively learns emotional patterns from speech signals and provides accurate emotion classification suitable for real-world applications.
+This project successfully recognizes human emotions from speech using Deep Learning techniques. By combining MFCC-based audio feature extraction with a CNN-LSTM architecture, the system effectively learns emotional patterns from speech signals and provides accurate emotion classification suitable for real-world applications.4
+
+
+
+#Author
+
+Priyal Parmar 
