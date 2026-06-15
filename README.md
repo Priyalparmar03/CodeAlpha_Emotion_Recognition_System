@@ -328,6 +328,7 @@ This project successfully recognizes human emotions from speech using Deep Learn
 
 
 
-#Author
+
+Author
 
 Priyal Parmar 
